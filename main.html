@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ссылки</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="links">
+
+
+    https://vk.com/id508559361
+    https://vk.com/id357434429
+    https://vk.com/id136708100
+    https://vk.com/id403570695
+    https://vk.com/id364642312
+    https://vk.com/id336855049
+    https://vk.com/id295567371
+    https://vk.com/id378929164
+    https://vk.com/id474873870
+    https://vk.com/id86507535
+    https://vk.com/id203227139
+    https://vk.com/id260702230
+    https://vk.com/id269352006
+    https://vk.com/id451280928
+    https://vk.com/id272236579
+    https://vk.com/id524156968
+    https://vk.com/id308674607
+    https://vk.com/id378273842
+    https://vk.com/id335675445
+    https://vk.com/id246022198
+    https://vk.com/id138674231
+    https://vk.com/id187804340
+    https://vk.com/id500957242
+    https://vk.com/id207574367
+
+
+</div>
+<script>
+    var links = document.getElementById('links').innerText;
+    var arrlinks = links.split(' ');
+
+    arrlinks.sort(function(a, b) {
+        return Math.random() - 0.5;
+    });
+
+    document.getElementById('links').innerHTML = '';
+    for (var i = 0; i < arrlinks.length ; i++) {
+        var elem = document.createElement('a');
+        elem.href = arrlinks[i];
+        elem.innerHTML = arrlinks[i] + '<br>';
+        document.getElementById('links').appendChild(elem);
+    }
+</script>
+
+</body>
+</html>
