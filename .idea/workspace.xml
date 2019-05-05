@@ -11,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="63014" column="30" lean-forward="true" selection-start-line="63014" selection-start-column="30" selection-end-line="63014" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,9 +36,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="846" />
+    <option name="x" value="706" />
     <option name="y" value="40" />
-    <option name="width" value="1056" />
+    <option name="width" value="1196" />
     <option name="height" value="992" />
   </component>
   <component name="ProjectView">
@@ -81,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git-sample" />
       <recent name="D:\git-sample\vkid.github.io" />
     </key>
   </component>
@@ -111,16 +102,19 @@
       <workItem from="1557008818392" duration="1721000" />
       <workItem from="1557062774944" duration="659000" />
       <workItem from="1557063471390" duration="216000" />
+      <workItem from="1557063700927" duration="225000" />
+      <workItem from="1557064473632" duration="70000" />
+      <workItem from="1557064671555" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8837000" />
+    <option name="totallyTimeSpent" value="9144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="846" y="40" width="1056" height="992" extended-state="0" />
+    <frame x="706" y="40" width="1196" height="992" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29489437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -133,7 +127,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3538999" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3538999" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -149,10 +143,13 @@
     <entry file="file://$PROJECT_DIR$/style.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="63014" column="30" lean-forward="true" selection-start-line="63014" selection-start-column="30" selection-end-line="63014" selection-end-column="30" />
+        <state relative-caret-position="320">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../f1na1ik.github.io/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
