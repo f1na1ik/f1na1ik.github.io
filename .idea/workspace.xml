@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d6a234-2854-4306-be5e-7a5b24b88bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="63032" column="5" lean-forward="true" selection-start-line="63032" selection-start-column="5" selection-end-line="63032" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,8 +36,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="257" />
-    <option name="y" value="50" />
+    <option name="x" value="588" />
+    <option name="y" value="34" />
     <option name="width" value="976" />
     <option name="height" value="992" />
   </component>
@@ -109,18 +94,17 @@
       <workItem from="1557000342870" duration="1540000" />
       <workItem from="1557003214042" duration="4701000" />
       <workItem from="1557008818392" duration="1721000" />
-      <workItem from="1557062774944" duration="235000" />
+      <workItem from="1557062774944" duration="659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8235000" />
+    <option name="totallyTimeSpent" value="8621000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="77" width="976" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="588" y="34" width="976" height="992" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23799127" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23799127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -133,7 +117,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33260393" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3538999" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
