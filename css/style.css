@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.processing-form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.processing-form__input, .processing-form__output {
+  height: 300px;
+  max-width: 70%;
+  width: 100%;
+  margin: 0 10px;
+}
+
+.processing-form__count-verb, .processing-form__count-words {
+  display: flex;
+}
+
+.processing-form__h3 {
+  margin: 3px 0;
+}
+
+#inputText,
+#outputText {
+  width: 100%;
+  height: 300px;
+}
