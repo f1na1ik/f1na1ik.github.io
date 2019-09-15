@@ -16,11 +16,15 @@ function processing() {
             let parses = Az.Morph(arrayWords[i]);
             // console.log(parses);
             // console.log(parses[0].tag.VERB);
-            if (parses[0].tag.VERB || parses[0].tag.INFN) {
+			if (parses.length == 0) {
+				continue;
+			}
+            else if (parses[0].tag.VERB || parses[0].tag.INFN) {
                 allWordsArray[j] = arrayWords[i];
                 j++;
                 // console.log(arrayWords[i]);
                 countVerbs++
+				
             }
         }
 
