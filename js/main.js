@@ -12,7 +12,7 @@ function processing() {
     // console.log(arrayWords);
 
     let max = 100; let n = 1; let freeString = ''; let allCountVerbs = 0;
-    Az.Morph.init('../node_modules/az/dicts', function() {
+    Az.Morph.init('js/dicts', function() {
         for (let i = 0; arrayWords.length > i; i++) {
             let parses = Az.Morph(arrayWords[i]);
             // console.log(parses);
